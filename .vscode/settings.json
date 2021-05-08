@@ -3,6 +3,6 @@
   "python.linting.flake8Enabled": true,
   "python.linting.enabled": true,
   "python.linting.flake8Args": ["--max-line-length=150"],
-  "python.formatting.provider": "black",
-  "python.pythonPath": "/Users/sanghoyun/.local/share/virtualenvs/team-pose-pyhton-project-YxWYdRA7/bin/python"
+  "python.pythonPath": "/Users/user/.local/share/virtualenvs/team-pose-python-YeNmGDjQ/bin/python",
+  "python.formatting.provider": "black"
 }

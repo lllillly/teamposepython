@@ -1,0 +1,16 @@
+{% extends '../layouts/base.html' %}
+
+
+
+{% block content %}
+
+<h4>Hello, Python Django MemberList Screen</h4>
+
+   
+{% for member in members %}
+<h3>{{member.name}}</h3>
+<h3>{{member.email}}</h3>
+<hr />
+{% endfor %}
+
+{% endblock content %}

@@ -8,6 +8,7 @@ django = "==3.2"
 pillow = "*"
 django-ckeditor = "*"
 django-seed = "*"
+mysqlclient = "*"
 
 [dev-packages]
 flake8 = "*"
